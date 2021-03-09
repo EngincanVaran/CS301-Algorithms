@@ -1,0 +1,24 @@
+﻿Build started 5/11/2019 8:39:51 PM.
+     1>Project "X:\Google Drive (Sabanci)\CS301\HW4\HW4 Codes\CS301 HW 4\CS301 HW 4\CS301 HW 4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         X:\CS201\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(23): warning C4018: '>' : signed/unsigned mismatch
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(28): warning C4018: '<' : signed/unsigned mismatch
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(38): warning C4018: '<' : signed/unsigned mismatch
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(49): warning C4018: '<' : signed/unsigned mismatch
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(58): warning C4018: '<' : signed/unsigned mismatch
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(65): warning C4018: '<' : signed/unsigned mismatch
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(77): warning C4018: '<' : signed/unsigned mismatch
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(79): warning C4018: '>' : signed/unsigned mismatch
+     1>x:\google drive (sabanci)\cs301\hw4\hw4 codes\cs301 hw 4\cs301 hw 4\source.cpp(93): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         X:\CS201\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"X:\Google Drive (Sabanci)\CS301\HW4\HW4 Codes\CS301 HW 4\Debug\CS301 HW 4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:\Google Drive (Sabanci)\CS301\HW4\HW4 Codes\CS301 HW 4\Debug\CS301 HW 4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:\Google Drive (Sabanci)\CS301\HW4\HW4 Codes\CS301 HW 4\Debug\CS301 HW 4.lib" /MACHINE:X86 Debug\Source.obj
+         CS301 HW 4.vcxproj -> X:\Google Drive (Sabanci)\CS301\HW4\HW4 Codes\CS301 HW 4\Debug\CS301 HW 4.exe
+     1>Done Building Project "X:\Google Drive (Sabanci)\CS301\HW4\HW4 Codes\CS301 HW 4\CS301 HW 4\CS301 HW 4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.51
